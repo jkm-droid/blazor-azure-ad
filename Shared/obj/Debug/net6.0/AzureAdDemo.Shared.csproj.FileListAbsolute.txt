@@ -1,0 +1,12 @@
+/home/jkmdroid/DotNetProjects/AzureAdDemo/Shared/bin/Debug/net6.0/AzureAdDemo.Shared.deps.json
+/home/jkmdroid/DotNetProjects/AzureAdDemo/Shared/bin/Debug/net6.0/AzureAdDemo.Shared.dll
+/home/jkmdroid/DotNetProjects/AzureAdDemo/Shared/bin/Debug/net6.0/AzureAdDemo.Shared.pdb
+/home/jkmdroid/DotNetProjects/AzureAdDemo/Shared/obj/Debug/net6.0/AzureAdDemo.Shared.csproj.AssemblyReference.cache
+/home/jkmdroid/DotNetProjects/AzureAdDemo/Shared/obj/Debug/net6.0/AzureAdDemo.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/home/jkmdroid/DotNetProjects/AzureAdDemo/Shared/obj/Debug/net6.0/AzureAdDemo.Shared.AssemblyInfoInputs.cache
+/home/jkmdroid/DotNetProjects/AzureAdDemo/Shared/obj/Debug/net6.0/AzureAdDemo.Shared.AssemblyInfo.cs
+/home/jkmdroid/DotNetProjects/AzureAdDemo/Shared/obj/Debug/net6.0/AzureAdDemo.Shared.csproj.CoreCompileInputs.cache
+/home/jkmdroid/DotNetProjects/AzureAdDemo/Shared/obj/Debug/net6.0/AzureAdDemo.Shared.dll
+/home/jkmdroid/DotNetProjects/AzureAdDemo/Shared/obj/Debug/net6.0/refint/AzureAdDemo.Shared.dll
+/home/jkmdroid/DotNetProjects/AzureAdDemo/Shared/obj/Debug/net6.0/AzureAdDemo.Shared.pdb
+/home/jkmdroid/DotNetProjects/AzureAdDemo/Shared/obj/Debug/net6.0/ref/AzureAdDemo.Shared.dll
